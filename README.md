@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src=https://github.com/EpitechPromo2027/B-CPP-500-NCE-5-2-rtype-steven.deffontaine/blob/ECS-server/screenshots/screen1.png alt="logo" width=500 height=500 />
+<img src=https://github.com/187Lucka/r-type/blob/ECS-server/screenshots/screen1.png alt="logo" width=500 height=500 />
 
 <h1>R-Type Game</h1>
 <p>This project aims to recreate the R-Type game and add a multiplayer mode to it. we had to implement a multi-threaded server using Boost::asio and a graphical client in SFML.</p>
@@ -24,7 +24,7 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href=""><img src="https://github.com/EpitechPromo2027/B-CPP-500-NCE-5-2-rtype-steven.deffontaine/blob/ECS-server/screenshots/screen2.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href=""><img src="https://github.com/187Lucka/r-type/blob/ECS-server/screenshots/screen2.png" alt='image' width='800'/></a> </div>
 
 
 ## :toolbox: Getting Started
