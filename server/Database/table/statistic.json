@@ -1,0 +1,34 @@
+{
+    "1": {
+        "nbrDeaths": 0,
+        "nbrGames": 3,
+        "nbrKills": 8,
+        "nbrLosses": 0,
+        "nbrWins": 3,
+        "score": 0
+    },
+    "2": {
+        "nbrDeaths": 0,
+        "nbrGames": 2,
+        "nbrKills": 7,
+        "nbrLosses": 0,
+        "nbrWins": 2,
+        "score": 0
+    },
+    "3": {
+        "nbrDeaths": 2,
+        "nbrGames": 39,
+        "nbrKills": 45,
+        "nbrLosses": 2,
+        "nbrWins": 29,
+        "score": 0
+    },
+    "4": {
+        "nbrDeaths": 0,
+        "nbrGames": 1,
+        "nbrKills": 1,
+        "nbrLosses": 0,
+        "nbrWins": 1,
+        "score": 0
+    }
+}
